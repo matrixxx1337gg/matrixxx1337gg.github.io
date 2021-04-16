@@ -1,0 +1,241 @@
+body {
+	margin:0;
+	background: #ffffff;
+	font-family: 'Quicksand', sans-serif;
+}
+#menu {
+    height:25px;
+    width: 1300px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: #000000; /* Цвет фона */
+   }
+   #logo{
+   	position: absolute;
+   	width: 25px;
+   	height: 30px;
+   	margin-top:-37px;
+   	margin-left:10px;
+   }
+#rectangle{
+	position: absolute;
+	margin-top:-33px;
+   	margin-left:1090px;
+	height:25px;
+    width: 3px; /* Ширина слоя */
+    background: #ffffff; /* Цвет фона */
+    border-radius:2px;
+}
+
+a{
+	text-decoration: none;
+}
+.iphone{
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:525px;
+color:white;
+text-decoration: none;
+}
+
+.iphone:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.mac {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:600px;
+color:white;
+text-decoration: none;
+}
+
+.mac:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.ipad {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:655px;
+color:white;
+text-decoration: none;
+}
+
+.ipad:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.tv {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:710px;
+color:white;
+text-decoration: none;
+}
+
+.tv:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+
+.wat {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:750px;
+color:white;
+text-decoration: none;
+}
+
+.wat:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+
+.mus {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:825px;
+color:white;
+text-decoration: none;
+}
+
+.mus:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.acc {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:900px;
+color:white;
+text-decoration: none;
+}
+
+.acc:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.name {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:1015px;
+color:white;
+text-decoration: none;
+}
+
+.name:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.ent {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:1220px;
+color:white;
+text-decoration: none;
+}
+
+.ent:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.rg {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:1100px;
+color:white;
+text-decoration: none;
+}
+
+.rg:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+#panel1{
+  margin-top:100px;
+    margin-left:400px;
+    height:400px;
+    width: 500px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: #000000; /* Цвет фона */
+    border-radius: 40px;
+}
+#reggg{
+  position: absolute;
+  color: white;
+  font-size:50px;
+  margin-top:-400px;
+  margin-left:535px;
+}
+#login{
+  margin-top:-300px;
+    margin-left:455px;
+    height:25px;
+    width: 400px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: white; /* Цвет фона */
+    border-radius: 20px;
+}
+#password{
+  margin-top:50px;
+    margin-left:455px;
+    height:25px;
+    width: 400px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: white; /* Цвет фона */
+    border-radius: 20px;
+}
+#lg{
+  position: absolute;
+  color: #b5b5b5;
+  font-size:18px;
+  margin-top:-127px;
+  margin-left:485px;
+}
+#ps{
+  position: absolute;
+  color: #b5b5b5;
+  font-size:18px;
+  margin-top:-33px;
+  margin-left:485px;
+}
+#regs{
+  margin-top:50px;
+    margin-left:550px;
+    height:25px;
+    width: 200px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: white; /* Цвет фона */
+    border-radius: 20px;
+}
+.regst{
+  position: absolute;
+  color: black;
+  font-size:18px;
+  margin-top:-33px;
+  margin-left:627px;
+}
+.regst:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}

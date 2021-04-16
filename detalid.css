@@ -1,0 +1,288 @@
+body {
+	margin:0;
+	background: #ffffff;
+	font-family: 'Quicksand', sans-serif;
+}
+#menu {
+    height:25px;
+    width: 1290px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: #000000; /* Цвет фона */
+   }
+   #logo{
+   	position: absolute;
+   	width: 25px;
+   	height: 30px;
+   	margin-top:-37px;
+   	margin-left:10px;
+   }
+#rectangle{
+	position: absolute;
+	margin-top:-33px;
+   	margin-left:1090px;
+	height:25px;
+    width: 3px; /* Ширина слоя */
+    background: #ffffff; /* Цвет фона */
+    border-radius:2px;
+}
+
+a{
+	text-decoration: none;
+}
+.iphone{
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:525px;
+color:white;
+text-decoration: none;
+}
+
+.iphone:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.mac {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:600px;
+color:white;
+text-decoration: none;
+}
+
+.mac:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.ipad {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:655px;
+color:white;
+text-decoration: none;
+}
+
+.ipad:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.tv {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:710px;
+color:white;
+text-decoration: none;
+}
+
+.tv:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+
+.wat {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:750px;
+color:white;
+text-decoration: none;
+}
+
+.wat:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+
+.mus {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:825px;
+color:white;
+text-decoration: none;
+}
+
+.mus:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.acc {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:900px;
+color:white;
+text-decoration: none;
+}
+
+.acc:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.name {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:1015px;
+color:white;
+text-decoration: none;
+}
+
+.name:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.ent {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:1220px;
+color:white;
+text-decoration: none;
+}
+
+.ent:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+.rg {
+text-decoration: none;
+position: absolute;
+font-size:18px;
+margin-top:-33px;
+margin-left:1100px;
+color:white;
+text-decoration: none;
+}
+
+.rg:hover{
+color:#ff3b3b;
+transition: 0.5s;
+}
+#panel2 {
+  margin-top:600px;
+    margin-left:0px;
+    height:620px;
+    width: 1290px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: #000000; /* Цвет фона */
+}
+#iphone1{
+  position: absolute;
+  width: 330px;
+  height: 600px;
+  margin-top:-1230px;
+  margin-left:100px;
+}
+#word1{
+  position: absolute;
+  color: black;
+  font-size:50px;
+  margin-top:-1100px;
+    margin-left:550px;
+}
+#info1{
+  position: absolute;
+  color: #b5b5b5;
+  font-size:25px;
+  margin-top:-1030px;
+    margin-left:550px;
+}
+#info2{
+  position: absolute;
+  color: #b5b5b5;
+  font-size:25px;
+  margin-top:-940px;
+    margin-left:550px;
+}
+#panel3 {
+  margin-top:1350px;
+    margin-left:0px;
+    height:100px;
+    width: 10px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ffffff; /* Цвет фона */
+}
+#iphone2{
+  position: absolute;
+  width: 700px;
+  height: 500px;
+  margin-top:-1970px;
+  margin-left:50px;
+}
+#word2{
+  position: absolute;
+  color: white;
+  font-size:50px;
+  margin-top:-1900px;
+    margin-left:780px;
+}
+#info3{
+  position: absolute;
+  color: #b5b5b5;
+  font-size:25px;
+  margin-top:-1820px;
+    margin-left:780px;
+}
+#panel4 {
+  margin-top:-850px;
+    margin-left:0px;
+    height:620px;
+    width: 1290px; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: #000000; /* Цвет фона */
+}
+#iphone3{
+  position: absolute;
+  width: 600px;
+  height: 800px;
+  margin-top:-1370px;
+  margin-left:0px;
+}
+#word3{
+  position: absolute;
+  color: black;
+  font-size:50px;
+  margin-top:-1150px;
+    margin-left:500px;
+}
+#info4{
+  position: absolute;
+  color: #b5b5b5;
+  font-size:25px;
+  margin-top:-1050px;
+  margin-left:500px;
+}
+#iphone4{
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  margin-top:-800px;
+  margin-left:20px;
+}
+#word4{
+  position: absolute;
+  color: white;
+  font-size:50px;
+  margin-top:-450px;
+  margin-left:800px;
+}
+#info5{
+  position: absolute;
+  color: #b5b5b5;
+  font-size:25px;
+  margin-top:-380px;
+  margin-left:800px;
+}
